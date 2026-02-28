@@ -7,8 +7,8 @@ Knn là một thuật toán học máy trong đó ta chọn k điểm gần nh�
 source code sử dụng tếp data.inp để nhập dữ liệu và có dạng
 
 '''
-[số dữ liệu n] 
-[sô đặc trưng d]
+\[số dữ liệu n \]
+\[sô đặc trưng d\]
 [ma trận có dạng n x d]
 [n nhãn]
 [điểm cần dự đoán với d đặc trưng]
